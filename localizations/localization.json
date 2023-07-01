@@ -1,0 +1,10 @@
+{
+    "GAMEPLAY_EmergencyAxe" : {
+        "English" : "Fireman's Axe",
+        "Spanish (Spain)": "Hacha de bombero"
+    },
+    "GAMEPLAY_EmergencyAxeDesc" : {
+        "English" : "A reliable tool that can cut or open virtually anything.",
+        "Spanish (Spain)": "Una herramienta confiable que puede cortar o abrir prácticamente cualquier cosa."
+    }
+}

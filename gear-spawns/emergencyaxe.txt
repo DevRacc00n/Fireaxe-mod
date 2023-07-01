@@ -1,0 +1,2 @@
+scene=CampOffice
+item=GEAR_EmergencyAxe p=-4.2603,1.1899,-1.0316 r=0,116.1934,0 c=100
